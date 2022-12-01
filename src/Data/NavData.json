@@ -1,9 +1,9 @@
 {
     "Navigation": {
         "home": "Home",
-        "campaign": "Campanhas",
-        "services": "serviços",
-        "contacts": "contactos",
-        "getquote": "Pedir Cotação"
+        "features": "Features",
+        "services": "services",
+        "contacts": "contacts",
+        "getquote": "Get a Quote"
     }
 }

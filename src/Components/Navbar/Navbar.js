@@ -39,7 +39,7 @@ const Navbar = () => {
               <li className='nav-item'>
                 <div
                   className='nav-links'>
-                  {jsonData.Navigation.campaign}
+                  {jsonData.Navigation.features}
                 </div>
               </li>
             </Link>

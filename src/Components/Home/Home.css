@@ -61,3 +61,14 @@
 .home-right img {
     height: 400px;
 }
+
+.button-container {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.button-container  button{
+    padding: 10px 100px;
+    margin-left: 20%;
+}
