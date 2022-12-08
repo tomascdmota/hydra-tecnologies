@@ -19,7 +19,7 @@ const Navbar = () => {
         <nav className="nav" data-testid="navigation">
        
               <h1 className="nav-logo" data-testid="navbar-logo">
-                  <h1>HYDRA <br></br><span>technologies</span></h1>
+                  <h1>HYDRA<span> technologies</span></h1>
               </h1>
             <div className="navbar-container" data-testid="navbar-container">
          
@@ -69,6 +69,7 @@ const Navbar = () => {
           
           <span className='menu-icon'> <MenuIcon className='menu-icon' onClick={toggleClass}/></span>
          
+         <Link to="/getQuote" >
           <button href="#getqt"
               id="mybtn"
               type="button"
@@ -76,7 +77,7 @@ const Navbar = () => {
               data-testid="qbtn">
                 {jsonData.Navigation.getquote}
               </button>
-              
+              </Link>
             
               
       </nav>

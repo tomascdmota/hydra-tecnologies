@@ -8,10 +8,10 @@
     position: absolute;
     bottom: 0;
     left: 0;
-    filter: blur(40px);
+    filter: blur(10px);
     width: 100%;
     height: 300px;
-    background: url("https://res.cloudinary.com/dnho57ne8/image/upload/v1669841952/wave_5_xhi6af.svg");
+    background: url("https://res.cloudinary.com/dnho57ne8/image/upload/v1670516986/wave_nltyad.svg");
     background-size: cover;
     background-repeat: no-repeat;
 }
